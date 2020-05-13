@@ -1,0 +1,146 @@
+h1{
+    font-size: 5.625rem;
+    font-family: 'Sacramento',cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+
+}
+p{
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 0px;
+}
+hr {
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.pro{
+    text-decoration: underline;
+}
+body{
+    margin:0;
+    text-align: center;
+    text-decoration-color: #40514E;
+}
+.Python{
+    height: 216px;
+    width: 384px;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.education{
+    text-align: center;
+    margin: 100px auto 100px auto;
+    width: 50%;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.Web-Development{
+    height: 216px;
+    width: 384px;
+    float: right;
+    margin-left: 30px;
+}
+.middle-container{
+    margin: 100px 0;
+
+}
+.DP{
+    height: 216px;
+    width: 384px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.hobbies{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+.bnr-icons{
+    color: black;
+    font-size: 25px;
+    background: white;
+    padding-left: 25px;
+    border-radius: 50%
+}
+.hobby{
+    height: 200px;
+    width: 372px;
+}
+.contact{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.contact-me{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.python_skill:hover{
+    color: #d8ebb5;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    size:3;
+    text-decoration: none;
+}
+.data-slide-to{
+    background-color:black;
+}
+.profile{
+    padding-bottom: 10px;
+}
+.carousel-indicators .active{
+    background-color: #000;
+}
+.insta-profile{
+    margin-left: 25px;
+}
+.hobbies-heading{
+    padding: 0px;
+}
+#hobbies-carousel{
+    padding-top: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 7&;
+}
+
+.copyright{
+    color: white;
+}
